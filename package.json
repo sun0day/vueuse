@@ -1,6 +1,6 @@
 {
   "name": "@vueuse/monorepo",
-  "version": "9.2.0",
+  "version": "9.3.0",
   "private": true,
   "packageManager": "pnpm@7.6.0",
   "description": "Collection of essential Vue Composition Utilities",
@@ -96,7 +96,7 @@
     "unplugin-icons": "^0.14.9",
     "unplugin-vue-components": "^0.22.7",
     "vite": "^3.1.1",
-    "vite-plugin-inspect": "^0.7.1",
+    "vite-plugin-inspect": "0.6.1",
     "vite-plugin-pwa": "^0.12.7",
     "vitepress": "1.0.0-alpha.4",
     "vitest": "^0.23.2",
