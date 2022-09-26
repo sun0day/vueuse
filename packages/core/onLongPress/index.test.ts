@@ -97,7 +97,7 @@ describe('onLongPress', () => {
       it('should work with once and prevent modifiers', () => workOnceAndPreventModifiers(isRef))
       it('should stop propagation', () => stopPropagation(isRef))
     })
-  }
+  
 
   beforeEach(() => {
     element = ref(document.createElement('div'))
